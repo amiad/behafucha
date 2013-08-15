@@ -1,6 +1,6 @@
 #Behafucha#
 Convert English/Hebrew text to Hebrew/English text (akuo<->שלום)
-##Orginal Software##
+##Original Software##
 http://sourceforge.net/p/hafuchalhafuch
 ###Authors###
 * Ilan Shavit, http://ilsh.info
